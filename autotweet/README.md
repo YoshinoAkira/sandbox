@@ -20,7 +20,7 @@ cp .text.txt text.txt
 cp .keys.json keys.json
 ```
 
-5. edit keys.json
+5. edit keys.json  
 copy consumer key, consumer secret, access token key and access token secret to keys.json
 
 6. tweet
