@@ -21,7 +21,11 @@ cp .keys.json keys.json
 ```
 
 5. edit keys.json  
-copy consumer key, consumer secret, access token key and access token secret to keys.json
+copy from twitter dev page and fill in the blanks
+- consumer key
+- consumer secret
+- access token key
+- access token secret
 
 6. tweet
 ```
